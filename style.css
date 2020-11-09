@@ -1,1 +1,29 @@
+h1 {
+  text-align: center;
+  font-family: Arial;
+  
 
+}
+img {
+  width: 70%;
+  height: auto; 
+  display: block;
+  margin: 0 auto;
+  padding:35px;
+}
+h2 {
+  text-align: center;
+}
+p {
+  text-align: center;
+  font-family: Times-New-Roman;
+}
+  body {
+    background: 5EFF33;
+}
+h3 {
+  text-align: center;
+}
+
+  
+  
